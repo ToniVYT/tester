@@ -1,4 +1,4 @@
-$.getJSON("http://dataservice.accuweather.com/forecasts/v1/daily/5day/125594?apikey=M9mfkJX9LRP1WPQwRkjYcx7l0mdDWtmo&language=es-es&metric=true", function(dades){ // llamada a JSON i declaro funcion "dades"
+$.getJSON("http://dataservice.accuweather.com/forecasts/v1/daily/5day/125594?apikey=Your_API_KEY&language=es-es&metric=true", function(dades){ // llamada a JSON i declaro funcion "dades"
     console.log(dades); // paso per consola
     //alert(dades);
     
