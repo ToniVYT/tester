@@ -1,0 +1,160 @@
+{
+    "Headline": {
+        "EffectiveDate": "2021-07-02T08:00:00+02:00",
+        "EffectiveEpochDate": 1625205600,
+        "Severity": 5,
+        "Text": "Previsión de chubascos el viernes",
+        "Category": "rain",
+        "EndDate": "2021-07-02T20:00:00+02:00",
+        "EndEpochDate": 1625248800,
+        "MobileLink": "http://www.accuweather.com/es/cz/prague/125594/extended-weather-forecast/125594?unit=c",
+        "Link": "http://www.accuweather.com/es/cz/prague/125594/daily-weather-forecast/125594?unit=c"
+    },
+    "DailyForecasts": [{
+        "Date": "2021-07-02T07:00:00+02:00",
+        "EpochDate": 1625202000,
+        "Temperature": {
+            "Minimum": {
+                "Value": 12.4,
+                "Unit": "C",
+                "UnitType": 17
+            },
+            "Maximum": {
+                "Value": 15.9,
+                "Unit": "C",
+                "UnitType": 17
+            }
+        },
+        "Day": {
+            "Icon": 12,
+            "IconPhrase": "Chubascos",
+            "HasPrecipitation": true,
+            "PrecipitationType": "Rain",
+            "PrecipitationIntensity": "Light"
+        },
+        "Night": {
+            "Icon": 35,
+            "IconPhrase": "Parcialmente nublado",
+            "HasPrecipitation": false
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink": "http://www.accuweather.com/es/cz/prague/125594/daily-weather-forecast/125594?day=1&unit=c",
+        "Link": "http://www.accuweather.com/es/cz/prague/125594/daily-weather-forecast/125594?day=1&unit=c"
+    }, {
+        "Date": "2021-07-03T07:00:00+02:00",
+        "EpochDate": 1625288400,
+        "Temperature": {
+            "Minimum": {
+                "Value": 11.8,
+                "Unit": "C",
+                "UnitType": 17
+            },
+            "Maximum": {
+                "Value": 21.9,
+                "Unit": "C",
+                "UnitType": 17
+            }
+        },
+        "Day": {
+            "Icon": 4,
+            "IconPhrase": "Nubes y claros",
+            "HasPrecipitation": false
+        },
+        "Night": {
+            "Icon": 36,
+            "IconPhrase": "Nubes y claros",
+            "HasPrecipitation": false
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink": "http://www.accuweather.com/es/cz/prague/125594/daily-weather-forecast/125594?day=2&unit=c",
+        "Link": "http://www.accuweather.com/es/cz/prague/125594/daily-weather-forecast/125594?day=2&unit=c"
+    }, {
+        "Date": "2021-07-04T07:00:00+02:00",
+        "EpochDate": 1625374800,
+        "Temperature": {
+            "Minimum": {
+                "Value": 15.5,
+                "Unit": "C",
+                "UnitType": 17
+            },
+            "Maximum": {
+                "Value": 24.0,
+                "Unit": "C",
+                "UnitType": 17
+            }
+        },
+        "Day": {
+            "Icon": 13,
+            "IconPhrase": "Mayormente nublado con chubascos",
+            "HasPrecipitation": true,
+            "PrecipitationType": "Rain",
+            "PrecipitationIntensity": "Light"
+        },
+        "Night": {
+            "Icon": 38,
+            "IconPhrase": "Mayormente nublado",
+            "HasPrecipitation": false
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink": "http://www.accuweather.com/es/cz/prague/125594/daily-weather-forecast/125594?day=3&unit=c",
+        "Link": "http://www.accuweather.com/es/cz/prague/125594/daily-weather-forecast/125594?day=3&unit=c"
+    }, {
+        "Date": "2021-07-05T07:00:00+02:00",
+        "EpochDate": 1625461200,
+        "Temperature": {
+            "Minimum": {
+                "Value": 14.5,
+                "Unit": "C",
+                "UnitType": 17
+            },
+            "Maximum": {
+                "Value": 22.7,
+                "Unit": "C",
+                "UnitType": 17
+            }
+        },
+        "Day": {
+            "Icon": 14,
+            "IconPhrase": "Parcialmente soleado con chubascos",
+            "HasPrecipitation": true,
+            "PrecipitationType": "Rain",
+            "PrecipitationIntensity": "Light"
+        },
+        "Night": {
+            "Icon": 35,
+            "IconPhrase": "Parcialmente nublado",
+            "HasPrecipitation": false
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink": "http://www.accuweather.com/es/cz/prague/125594/daily-weather-forecast/125594?day=4&unit=c",
+        "Link": "http://www.accuweather.com/es/cz/prague/125594/daily-weather-forecast/125594?day=4&unit=c"
+    }, {
+        "Date": "2021-07-06T07:00:00+02:00",
+        "EpochDate": 1625547600,
+        "Temperature": {
+            "Minimum": {
+                "Value": 15.5,
+                "Unit": "C",
+                "UnitType": 17
+            },
+            "Maximum": {
+                "Value": 26.2,
+                "Unit": "C",
+                "UnitType": 17
+            }
+        },
+        "Day": {
+            "Icon": 4,
+            "IconPhrase": "Nubes y claros",
+            "HasPrecipitation": false
+        },
+        "Night": {
+            "Icon": 34,
+            "IconPhrase": "Mayormente despejado",
+            "HasPrecipitation": false
+        },
+        "Sources": ["AccuWeather"],
+        "MobileLink": "http://www.accuweather.com/es/cz/prague/125594/daily-weather-forecast/125594?day=5&unit=c",
+        "Link": "http://www.accuweather.com/es/cz/prague/125594/daily-weather-forecast/125594?day=5&unit=c"
+    }]
+}
